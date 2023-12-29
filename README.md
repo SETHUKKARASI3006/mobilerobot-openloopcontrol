@@ -107,7 +107,8 @@ if _name_ == '_main_':
 ![image](https://github.com/SETHUKKARASI3006/mobilerobot-openloopcontrol/assets/144979338/1ff85247-5152-4afc-a1ca-999851a117fe)
 
 
-![image](https://github.com/SETHUKKARASI3006/mobilerobot-openloopcontrol/assets/144979338/f744d482-13b6-4ef2-ba5e-8767613a5617)
+![image](https://github.com/SETHUKKARASI3006/mobilerobot-openloopcontrol/assets/144979338/9bd890a1-bd19-47a4-b1bc-0bb3d4e1f03e)
+
 
 
 
