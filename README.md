@@ -104,9 +104,11 @@ if _name_ == '_main_':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
+![image](https://github.com/SETHUKKARASI3006/mobilerobot-openloopcontrol/assets/144979338/1ff85247-5152-4afc-a1ca-999851a117fe)
 
-![robo](/img/WhatsApp%20Image%202023-12-29%20at%2016.13.49_21bf9650.jpg)
+
+![image](https://github.com/SETHUKKARASI3006/mobilerobot-openloopcontrol/assets/144979338/f744d482-13b6-4ef2-ba5e-8767613a5617)
+
 
 
 <br/>
